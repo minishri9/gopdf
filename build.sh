@@ -5,7 +5,7 @@ GOARCH="amd64" \
 GOHOSTARCH="amd64" \
 GOHOSTOS="linux" \
 GOOS="linux" \
-VERSION="v2" \
+VERSION="v3" \
 APP_NAME="sample"
 PORT="5005"
 go build hello-world.go
